@@ -42,8 +42,9 @@ Welcome to the **Admin Dashboard** for ZeeCare Medical Institute! This dashboard
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/admin-dashboard.git
-   cd admin-dashboard
+   git clone https://github.com/princeessjay/HMS_DASHBOARD.git
+   
+   cd HMS_DASHBOARD
 2. **Install dependencies:**
 
    ```bash
