@@ -1,3 +1,7 @@
+## Live Link
+
+   [Link](https://admin-dashboard-hms-cwv.netlify.app/login)
+
 # ZeeCare Medical Institute - Admin Dashboard
 
 Welcome to the **Admin Dashboard** for ZeeCare Medical Institute! This dashboard is designed to empower administrators with tools to effectively manage hospital operations. Below, you'll find details on the project's features, setup instructions, and the technologies used.
