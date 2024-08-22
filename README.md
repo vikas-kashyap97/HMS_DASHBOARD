@@ -60,5 +60,5 @@ Welcome to the **Admin Dashboard** for ZeeCare Medical Institute! This dashboard
    npm run build
 
 # License
-Licensed under the [MIT license](https://github.com/princeessjay/HMS_FRONTEND/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/princeessjay/HMS_DASHBOARD/blob/main/LICENSE.md).
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
