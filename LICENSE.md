@@ -1,7 +1,3 @@
-
-### MIT License for Admin Dashboard
-
-```markdown
 MIT License
 
 Copyright (c) 2024 Vikas Kashyap
